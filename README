@@ -1,0 +1,3 @@
+A MapReduce example using words from speeches or gained from a twitter stream. MapReduce functions will run out of MongoDB and post results to a MySQL table.
+
+NOTE: This is example code only. Have fun with it.
